@@ -55,6 +55,13 @@
             "popular": false
         },
         {
+            "url": "https://www.ucas.com/applying/after-you-apply/clearing-and-results-day/results-day",
+            "title": "UCAS clearing and results day",
+            "description": "Results day is an important milestone. Understand what to expect, explore your options, and start building your plan today.",
+            "isStepByStep": false,
+            "popular": true
+        },
+        {
             "url": "https://www.gov.uk/student-finance-register-login",
             "title": "Student finance login",
             "description": "Your student finance online account - check payment dates, track an application, change details, reset password, find customer reference numbers",
@@ -62,16 +69,9 @@
             "popular": true
         },
         {
-            "url": "https://www.gov.uk/sign-in-to-manage-your-student-loan-balance",
-            "title": "Manage your student loan balance",
-            "description": "Sign in to your student loan repayment account - check your balance, make regular or one-off repayments, or let SLC know if your details have changed",
-            "isStepByStep": false,
-            "popular": true
-        },
-        {
-            "url": "https://www.gov.uk/apply-apprenticeship",
-            "title": "Find an apprenticeship",
-            "description": "Register your profile, search vacancies and apply for an apprenticeship - you must be 16 or over",
+            "url": "https://www.gov.uk/become-apprentice",
+            "title": "Become an apprentice",
+            "description": "Becoming an apprentice - what to expect, apprenticeship levels, pay and training, making an application, complaining about an apprenticeship.",
             "isStepByStep": false,
             "popular": true
         },
