@@ -237,7 +237,6 @@
   "https://www.gov.uk/free-childcare-if-working": [
     "Arranging childcare",
     "Being in work: your rights and pay",
-    "Parenting and guardianship",
     "Tax-Free Childcare"
   ],
   "https://www.gov.uk/help-with-childcare-costs": [
@@ -1257,12 +1256,12 @@
   "https://www.gov.uk/become-apprentice": [
     "Doing an apprenticeship or internship",
     "Educating your child",
-    "Leaving care as a young adult"
+    "Leaving care as a young adult",
+    "Studying and training"
   ],
   "https://www.gov.uk/apply-apprenticeship": [
     "Doing an apprenticeship or internship",
-    "Looking for work",
-    "Studying and training"
+    "Looking for work"
   ],
   "https://www.gov.uk/employing-an-apprentice": [
     "Doing an apprenticeship or internship",
@@ -1694,6 +1693,9 @@
     "Going into care as an adult",
     "Managing your benefits"
   ],
+  "https://nationalcareers.service.gov.uk/careers-advice": [
+    "Going to college or sixth form"
+  ],
   "https://www.gov.uk/find-a-regulated-qualification": [
     "Going to college or sixth form"
   ],
@@ -1706,9 +1708,6 @@
   "https://www.gov.uk/1619-bursary-fund": [
     "Going to college or sixth form",
     "Leaving care as a young adult"
-  ],
-  "https://www.gov.uk/advanced-learner-loan": [
-    "Going to college or sixth form"
   ],
   "https://www.gov.uk/care-to-learn": [
     "Going to college or sixth form",
@@ -1978,8 +1977,7 @@
     "While you're abroad"
   ],
   "https://www.gov.uk/sign-in-to-manage-your-student-loan-balance": [
-    "Manage and repay student finance",
-    "Studying and training"
+    "Manage and repay student finance"
   ],
   "https://www.gov.uk/repay-student-loan-overpayment": [
     "Manage and repay student finance"
@@ -2125,6 +2123,9 @@
   "https://www.gov.uk/get-a-divorce": [
     "Parenting and guardianship",
     "Separation and divorce if you have children"
+  ],
+  "https://nationalcareers.service.gov.uk/exam-results/parent-guide": [
+    "Parenting and guardianship"
   ],
   "https://www.gov.uk/child-trust-funds/find-a-child-trust-fund": [
     "Parenting and guardianship"
@@ -2430,6 +2431,9 @@
   "https://www.gov.uk/apply-short-term-study-visa": [
     "Studying and training",
     "Visas to study in the UK"
+  ],
+  "https://www.ucas.com/applying/after-you-apply/clearing-and-results-day/results-day": [
+    "Studying and training"
   ],
   "https://www.gov.uk/vaccine-damage-payment": [
     "Support if you have a health condition or disability"
